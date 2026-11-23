@@ -1,0 +1,11 @@
+/target/
+/runtime
+/data/
+/RustGPeitinhos
+/RustGPeitinhos.desktop
+/.RustGPeitinhos*
+*.log
+.env
+.env.*
+*.pem
+*.key
